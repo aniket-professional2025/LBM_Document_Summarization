@@ -1,0 +1,1057 @@
+[
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 266,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "Climate",
+        "impact",
+        "food"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Climate change continues to impact global agriculture and food security...."
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 239,
+      "scroll_depth_percent": 71,
+      "highlighted_phrases": [
+        "treatment.",
+        "transforming",
+        "is"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics and treatment...."
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 166,
+      "scroll_depth_percent": 86,
+      "highlighted_phrases": [
+        "computing",
+        "problems.",
+        "complex"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for complex problems...."
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 131,
+      "scroll_depth_percent": 77,
+      "highlighted_phrases": [
+        "crucial",
+        "Renewable",
+        "sources",
+        "emissions."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to achieving net-zero emissions...."
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 169,
+      "scroll_depth_percent": 72,
+      "highlighted_phrases": [
+        "mental",
+        "in",
+        "public",
+        "and"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Social media influences mental health and public opinion in subtle..."
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 92,
+      "scroll_depth_percent": 68,
+      "highlighted_phrases": [
+        "global",
+        "and",
+        "impact"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Climate change continues to impact global agriculture and food security."
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 217,
+      "scroll_depth_percent": 89,
+      "highlighted_phrases": [
+        "diagnostics",
+        "healthcare",
+        "treatment.",
+        "and"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics and treatment."
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 131,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "for",
+        "promises",
+        "computing"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for complex problems."
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 179,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "to",
+        "sources",
+        "energy",
+        "crucial"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to achieving net-zero emissions."
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 177,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "and",
+        "in",
+        "mental",
+        "public"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Social media influences mental health and public opinion in subtle ways."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 174,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "global",
+        "Climate",
+        "food",
+        "agriculture"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Climate change continues to impact global..."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 120,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "Artificial",
+        "diagnostics",
+        "is",
+        "treatment."
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics..."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 74,
+      "scroll_depth_percent": 65,
+      "highlighted_phrases": [
+        "Quantum",
+        "complex",
+        "computing"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for..."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 126,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "sources",
+        "crucial",
+        "energy",
+        "are"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to..."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 268,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "public",
+        "mental",
+        "influences"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Social media influences mental health and..."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 108,
+      "scroll_depth_percent": 99,
+      "highlighted_phrases": [
+        "continues",
+        "to"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Climate change continues to impact global agriculture and food security...."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 203,
+      "scroll_depth_percent": 100,
+      "highlighted_phrases": [
+        "Artificial",
+        "treatment.",
+        "healthcare"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics and treatment...."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 87,
+      "scroll_depth_percent": 100,
+      "highlighted_phrases": [
+        "exponential",
+        "computing",
+        "speed-ups"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for complex problems...."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 259,
+      "scroll_depth_percent": 71,
+      "highlighted_phrases": [
+        "net-zero",
+        "crucial",
+        "sources"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to achieving net-zero emissions...."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 106,
+      "scroll_depth_percent": 72,
+      "highlighted_phrases": [
+        "in",
+        "opinion"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Social media influences mental health and public opinion in subtle..."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 297,
+      "scroll_depth_percent": 94,
+      "highlighted_phrases": [
+        "change",
+        "to",
+        "agriculture"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Climate change continues to impact global agriculture and food security...."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 223,
+      "scroll_depth_percent": 88,
+      "highlighted_phrases": [
+        "transforming",
+        "diagnostics",
+        "intelligence",
+        "is"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics and treatment...."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 136,
+      "scroll_depth_percent": 76,
+      "highlighted_phrases": [
+        "speed-ups",
+        "promises"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for complex problems...."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 256,
+      "scroll_depth_percent": 82,
+      "highlighted_phrases": [
+        "energy",
+        "are",
+        "achieving",
+        "Renewable"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to achieving net-zero emissions...."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 179,
+      "scroll_depth_percent": 75,
+      "highlighted_phrases": [
+        "in",
+        "health",
+        "opinion",
+        "ways."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Social media influences mental health and public opinion in subtle..."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 132,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "continues",
+        "impact",
+        "security."
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Climate change continues to impact global..."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 92,
+      "scroll_depth_percent": 95,
+      "highlighted_phrases": [
+        "Artificial",
+        "healthcare",
+        "and",
+        "transforming"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics..."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 201,
+      "scroll_depth_percent": 94,
+      "highlighted_phrases": [
+        "promises",
+        "Quantum"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for..."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 63,
+      "scroll_depth_percent": 65,
+      "highlighted_phrases": [
+        "net-zero",
+        "crucial",
+        "to",
+        "emissions."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to..."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 170,
+      "scroll_depth_percent": 63,
+      "highlighted_phrases": [
+        "in",
+        "health",
+        "Social",
+        "media"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Social media influences mental health and..."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 211,
+      "scroll_depth_percent": 99,
+      "highlighted_phrases": [
+        "to",
+        "continues",
+        "food"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Climate change continues to impact global..."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 291,
+      "scroll_depth_percent": 100,
+      "highlighted_phrases": [
+        "Artificial",
+        "is"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics..."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 296,
+      "scroll_depth_percent": 95,
+      "highlighted_phrases": [
+        "exponential",
+        "complex",
+        "problems."
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for..."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 300,
+      "scroll_depth_percent": 63,
+      "highlighted_phrases": [
+        "crucial",
+        "to"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to..."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 162,
+      "scroll_depth_percent": 65,
+      "highlighted_phrases": [
+        "in",
+        "opinion",
+        "health",
+        "subtle"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Social media influences mental health and..."
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 279,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "to",
+        "continues",
+        "and"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Climate change continues to impact global..."
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 116,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "Artificial",
+        "diagnostics",
+        "treatment."
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics..."
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 83,
+      "scroll_depth_percent": 68,
+      "highlighted_phrases": [
+        "Quantum",
+        "speed-ups"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for..."
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 188,
+      "scroll_depth_percent": 68,
+      "highlighted_phrases": [
+        "Renewable",
+        "emissions."
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to..."
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 61,
+      "scroll_depth_percent": 92,
+      "highlighted_phrases": [
+        "health",
+        "subtle",
+        "mental",
+        "opinion"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Social media influences mental health and..."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 116,
+      "scroll_depth_percent": 71,
+      "highlighted_phrases": [
+        "to",
+        "agriculture"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Climate change continues to impact global agriculture and food security...."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 224,
+      "scroll_depth_percent": 87,
+      "highlighted_phrases": [
+        "Artificial",
+        "is"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics and treatment...."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 100,
+      "scroll_depth_percent": 84,
+      "highlighted_phrases": [
+        "speed-ups",
+        "promises"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for complex problems...."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 150,
+      "scroll_depth_percent": 61,
+      "highlighted_phrases": [
+        "sources",
+        "are",
+        "energy",
+        "achieving"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to achieving net-zero emissions...."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 210,
+      "scroll_depth_percent": 98,
+      "highlighted_phrases": [
+        "opinion",
+        "mental"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Social media influences mental health and public opinion in subtle..."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Climate change continues to impact global agriculture and food security.",
+    "user_behaviour": {
+      "read_time_sec": 192,
+      "scroll_depth_percent": 67,
+      "highlighted_phrases": [
+        "security.",
+        "agriculture",
+        "change"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Climate change continues to impact global..."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Artificial intelligence is transforming healthcare diagnostics and treatment.",
+    "user_behaviour": {
+      "read_time_sec": 268,
+      "scroll_depth_percent": 78,
+      "highlighted_phrases": [
+        "Artificial",
+        "and"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Artificial intelligence is transforming healthcare diagnostics..."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Quantum computing promises exponential speed-ups for complex problems.",
+    "user_behaviour": {
+      "read_time_sec": 80,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "problems.",
+        "computing",
+        "complex",
+        "speed-ups"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Quantum computing promises exponential speed-ups for..."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Renewable energy sources are crucial to achieving net-zero emissions.",
+    "user_behaviour": {
+      "read_time_sec": 165,
+      "scroll_depth_percent": 64,
+      "highlighted_phrases": [
+        "energy",
+        "Renewable",
+        "achieving"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Renewable energy sources are crucial to..."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Social media influences mental health and public opinion in subtle ways.",
+    "user_behaviour": {
+      "read_time_sec": 249,
+      "scroll_depth_percent": 73,
+      "highlighted_phrases": [
+        "Social",
+        "media",
+        "ways."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Social media influences mental health and..."
+  }
+]

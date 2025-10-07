@@ -1,0 +1,1057 @@
+[
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 266,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "Climate",
+        "impact",
+        "food"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "The fight against climate change's grip on global agriculture and food security demands immediate, vigorous action! While the threats are serious—from devastating droughts and floods to reduced crop yields and the spread of pests—the document highlights a phenomenal suite of solutions. The core of this effort is a multi-faceted approach centered on both adaptation and mitigation. We must enthusiastically embrace innovation in farming practices! This includes the crucial development of climate-resilient crop varieties that can withstand harsh, unpredictable conditions. Furthermore, optimizing every drop of water is key, requiring a focus on improving water-management techniques. Farmers must also adopt sustainable agricultural practices, such as the highly effective method of conservation tillage, which protects soil health and moisture. Ultimately, securing a stable and nutritious food supply for our growing world requires a dual global effort: adaptation to manage the changes already underway, and powerful mitigation—radically reducing greenhouse gas emissions—to slow the pace of climate change itself. By deploying these methods with urgency and optimism, we can build a resilient, well-fed future"
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 239,
+      "scroll_depth_percent": 71,
+      "highlighted_phrases": [
+        "treatment.",
+        "transforming",
+        "is"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "AI is igniting an electrifying revolution in the healthcare landscape, delivering powerful tools that boost the speed and precision of medical services to phenomenal new heights! The core of this transformation lies in sophisticated AI algorithms, particularly those based on deep learning, which expertly analyze massive quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI is a game-changer: it can identify subtle, early disease patterns (such as cancer or diabetic retinopathy) with superior accuracy, dramatically accelerating the time patients receive critical treatment. Beyond the clinic, AI is a powerhouse in the lab, proving crucial in drug discovery by simulating complex molecular interactions, which significantly shortens the development cycle for life-saving pharmaceuticals. Furthermore, it unlocks the potential of personalized medicine by analyzing a patient’s complete genetic data, medical history, and lifestyle to recommend the single most effective therapeutic approach. The potential for AI to radically improve patient outcomes, optimize hospital workflows, and reduce medical errors is absolutely undeniable, heralding a future of precision and efficiency!"
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 166,
+      "scroll_depth_percent": 86,
+      "highlighted_phrases": [
+        "computing",
+        "problems.",
+        "complex"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing is unleashing a paradigm shift in computation, a revolutionary method that promises to solve problems currently impossible for any supercomputer! This incredible power stems from using qubits in superposition and entanglement, enabling the technology to process an exponential number of calculations simultaneously. The methods and applications are nothing short of spectacular: in materials science, the capability for quantum simulations will lead to the breakthrough discovery of revolutionary new catalysts and high-temperature superconductors. In the realm of business, quantum methods will significantly enhance drug discovery and radically improve complex optimization problems in areas like logistics and financial modeling. Even the challenge presented to current security—where algorithms like Shor's necessitate the urgent development of post-quantum cryptography—is driving phenomenal innovation! Despite being in the early stages, the eventual realization of fault-tolerant quantum computers is set to dramatically accelerate discovery and efficiency across technology, science, and industry!"
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 131,
+      "scroll_depth_percent": 77,
+      "highlighted_phrases": [
+        "crucial",
+        "Renewable",
+        "sources",
+        "emissions."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "The journey to net-zero emissions by mid-century hinges on an exhilarating, massive transition to renewable energy sources! This requires the enthusiastic scaling up of mature technologies like highly efficient solar photovoltaic (PV) and wind power, while also dynamically integrating new, emerging sources such as geothermal and green hydrogen. To overcome the challenge of intermittency inherent in solar and wind, the sector is urgently implementing cutting-edge energy storage solutions. This includes huge investments in large-scale battery storage and robust pumped hydro systems, methods crucial for guaranteeing grid stability and reliability. Furthermore, decarbonizing stubborn sectors like industry and heavy transport requires innovative development of technologies like Power-to-X fuels. This transition is powered not just by technology, but by decisive policy! Policies, including carbon pricing and powerful incentives for clean technology adoption, are the essential drivers that will accelerate this movement. By deploying these methods aggressively, we can ensure a fully robust and decarbonized energy system that sustainably powers the global economy!"
+  },
+  {
+    "user_id": "U001",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 169,
+      "scroll_depth_percent": 72,
+      "highlighted_phrases": [
+        "mental",
+        "in",
+        "public",
+        "and"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Social media's widespread influence demands a dynamic, proactive response to mitigate its psychological and societal challenges! While these platforms are powerful tools for connectivity, their impact on mental health and public discourse requires strategic intervention. To counter the negative effects, the focus must shift enthusiastically to implementing effective methods of control and education. The effort must concentrate on promoting digital literacy across all age groups, equipping users with the critical thinking skills needed to navigate curated content and misinformation. Crucially, we must actively work to foster healthier online habits, pushing back against addictive design elements like infinite scrolling and constant notifications to improve well-being and sleep hygiene. Furthermore, regulation and public demand must focus on ensuring accountability: we must aggressively push for greater algorithmic transparency to understand and control how content is prioritized and circulated. By embracing these methods—education, habit-building, and transparency—we can harness the benefits of digital connectivity while successfully mitigating the negative consequences of constant digital immersion!"
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 92,
+      "scroll_depth_percent": 68,
+      "highlighted_phrases": [
+        "global",
+        "and",
+        "impact"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Hey there! So, this document breaks down why climate change is a huge, growing problem for how we grow our food and keep everyone fed around the world. It's not just a minor annoyance; it's a massive, escalating threat, and the negative results and consequences are already hitting hard. The core impact is pretty straightforward: the planet getting warmer, the rain patterns going haywire, and all the crazy weather—think severe floods, droughts, and punishing heatwaves—are messing directly with farming. The big immediate consequence? We're seeing less food being produced. Crop yields are shrinking, and livestock aren't as productive as they used to be. It's tough all over, but the most heartbreaking results are falling on the people least equipped to handle them. Smallholder farmers in developing countries, who are already struggling, are the most vulnerable because they simply don't have the money or resources to pivot quickly when the climate throws them a curveball. The problem doesn't stop with the weather, though. Another major result is that a changing climate makes it easier for pests and diseases to spread, which further damages and jeopardizes harvests before they can even make it to market. We've seen really serious, catastrophic outcomes from this, like the severe food crises and massive crop failures that follow long droughts in regions like the Horn of Africa. Here's another truly concerning result: the increasing CO2 in the atmosphere actually affects the food itself. It looks like it can diminish the nutritional value of our staple crops, meaning even if the food grows, it might not be as healthy as it used to be. This is a subtle but profound outcome that could lead to a really serious public health problem: widespread micronutrient deficiencies across the global population. While the document finishes by saying we need to focus on solutions (like better crops and water management), the main takeaway here is the list of scary results: less food overall, sicker food nutritionally, massive farmer vulnerability, and the increased chance of humanitarian food crises. It's a huge wake-up call that these environmental changes have very real, immediate consequences for our dinner tables and global stability."
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 217,
+      "scroll_depth_percent": 89,
+      "highlighted_phrases": [
+        "diagnostics",
+        "healthcare",
+        "treatment.",
+        "and"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "AI is basically turning the healthcare world upside down, and the results we are seeing are incredibly exciting! The biggest outcome is that medical services are getting faster and way more accurate. Thats because these smart AI algorithms, especially ones that use deep learning, are fantastic at looking at massive amounts of data—think MRI scans, X-rays, and pathology slides—much quicker than any human. This has a huge positive consequence in diagnostics: We’re catching serious diseases like cancer or diabetic eye problems earlier and more precisely than the human eye can alone. The result? Patients get to treatment faster, which is a massive win for health outcomes! The results are showing up in the lab, too. AI is crucial in speeding up drug discovery; it simulates molecular interactions so quickly that the time it takes to develop brand new, life-saving pharmaceuticals is significantly shortened. This is a game-changer for getting new medicines to market. When it comes to treatment, the major outcome is the rise of personalized medicine. AI analyzes a patient’s unique genetic data, their full medical history, and even their lifestyle. The resulting recommendation is the most effective, tailor-made therapeutic approach possible. That's a huge step up from one-size-fits-all medicine! While we still have challenges to figure out—like how to handle all that sensitive patient data privately—the overall results of integrating AI are phenomenal: better patient outcomes, hospitals that run smoother, and a welcome reduction in medical errors. It truly looks like we're heading into a brilliant new era of super-precise and efficient healthcare!"
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 131,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "for",
+        "promises",
+        "computing"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Okay, so quantum computing is a massive, revolutionary change from our normal computers. The big takeaway is that by using these things called 'qubits' that can be 0 and 1 at the same time, the end result is that these machines can do an insane amount of calculations all at once—exponentially faster than even the world's most powerful supercomputers. The main outcome here? We finally get to solve problems that are currently impossible! Think of the practical results. In materials science, we'll see huge breakthroughs: quantum simulations will allow us to develop revolutionary new materials, like amazing catalysts or high-temperature superconductors. That's huge! In the medical field, the result will be a significant boost to drug discovery. We wll also see improvements in tricky business challenges, like making logistics run smoother and building much more effective financial models. Now, for a scary but exciting result: quantum computers are so powerful they threaten to break our current internet encryption (thanks to something called Shor's algorithm). The good news is that this threat is forcing us to create even stronger, post-quantum cryptography, so security will ultimately be better and more robust. The bottom line is that while we're still figuring out the tech—things like keeping the qubits stable—the long-term result of having truly stable, fault-tolerant quantum computers is that they are going to dramatically reshape pretty much every sector—from technology and science to all major industries. It’s going to be wild!"
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 179,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "to",
+        "sources",
+        "energy",
+        "crucial"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Hey! This document explains that if we want to hit that big global goal of net-zero emissions by the middle of the century, the result has to be a rapid and huge switch to renewable energy. The most direct and immediate result of this switch is that we are actively mitigating the climate crisis because renewables give us a zero-carbon alternative to fossil fuels, which are currently the biggest source of greenhouse gas emissions for things like electricity and transport. This massive shift is happening by scaling up technologies we already know work, like solar PV and wind power. The long-term result will be a stable energy portfolio that also includes emerging sources like geothermal and green hydrogen. Now, there is a technical challenge, and the resulting efforts are huge. Because the sun doesn't always shine and the wind doesn't always blow, a major outcome is the need for massive investment in energy storage solutions. This means things like huge battery storage facilities and pumped hydro systems. The result of these investments is a stable and reliable electrical grid, which is essential for our modern economy. Another important result is the development of brand new fuels. To clean up the really tough sectors, like heavy industry and long-haul transport, we're seeing the creation of new technologies like Power-to-X fuels. Finally, the document points out that all of this technological change is being driven by policy. The result of things like carbon pricing and incentives for clean tech is that the transition gets accelerated, ultimately ensuring that we end up with a robust and fully decarbonized energy system that can sustainably power the entire global economy. That's a great result for everyone!"
+  },
+  {
+    "user_id": "U002",
+    "user_profile": {
+      "summary_length_preference": "long",
+      "focus_area": "results",
+      "tone_preference": "casual"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 177,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "and",
+        "in",
+        "mental",
+        "public"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Hey there! So, this document is basically a breakdown of the huge impact social media is having, and honestly, the results are a mixed bag—it's altering how we all live, often in ways we don't realize. On the one hand, it’s great for connectivity and information access. But the document really zeroes in on the darker consequences, especially for how we feel about ourselves. The main result here is a massive hit to mental health. Because everyone is constantly exposed to these perfectly curated, idealized versions of life, the consequence is that we fuel social comparison. This leads directly to increased feelings of anxiety, depression, and inadequacy, and this outcome is especially noticeable and tough on teenagers. Then, there are the huge societal results. The algorithms running these platforms are designed to keep your eyes glued to the screen, so they tend to push sensational or emotionally charged content. The result of this system is that we end up living in echo chambers, where our own beliefs are constantly confirmed. This, in turn, is directly contributing to the polarization of public opinion—making it harder for people to agree or even see eye-to-eye—and it’s also the reason why misinformation, or 'fake news,' spreads so quickly. Finally, there are the personal lifestyle results. These platforms are designed to be addictive (think that never-ending infinite scroll and constant notification alerts!). The consequence of this clever design is often overuse and, practically speaking, poor sleep hygiene because we're glued to our phones late into the night. The document concludes by saying that the future result needs to be a focused effort to mitigate these problems. We need to work on promoting digital literacy, encouraging better online habits, and, crucially, demanding greater transparency from the platforms themselves. Essentially, we have to deal with the fallout of being constantly digitally immersed!"
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 174,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "global",
+        "Climate",
+        "food",
+        "agriculture"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document introduces the big problem of climate change and how it's becoming a huge headache for global food security and farming. Basically, the main idea is that crazy weather like droughts and heatwaves is directly reducing how much food we can grow, and this is an especially serious threat to vulnerable, small-scale farmers worldwide. On top of that, the air itself is changing the nutritional quality of our food, which could lead to health problems. The whole piece is set up to explain why we need a serious, immediate plan that includes both adapting our farms and drastically cutting down emissions."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 120,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "Artificial",
+        "diagnostics",
+        "is",
+        "treatment."
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "This document introduces the exciting idea that Artificial Intelligence (AI) is completely revolutionizing healthcare. The main point is that AI brings powerful new tools that significantly boost the speed and accuracy of medical services. It does this by using complex algorithms to analyze medical data (like scans and slides) much faster than humans. The document sets up the discussion by promising that AI will lead to faster disease diagnosis, quicker drug discovery, and highly effective personalized treatments, ushering in a new era of precision medicine."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 74,
+      "scroll_depth_percent": 65,
+      "highlighted_phrases": [
+        "Quantum",
+        "complex",
+        "computing"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document introduces quantum computing as a total game-changer for computation, moving far beyond our current technology.The central concept is that by using 'qubits' in a special state, these computers can perform an exponential number of calculations simultaneously. The piece sets up the excitement by promising that this technology will unlock solutions to problems that are currently impossible for even the fastest supercomputers, with applications ranging from finding revolutionary new materials to impacting global security (cryptography). It's basically the next massive leap in science and industry."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 126,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "sources",
+        "crucial",
+        "energy",
+        "are"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "This document introduces the critical need for a rapid and massive transition to renewable energy sources if the world is to hit the goal of net-zero emissions. The main idea is straightforward: fossil fuels are the primary driver of climate change, and renewables like solar and wind are the necessary, zero-carbon alternative. The text sets up the challenges of this switch (like storing intermittent power) and shows why scaling up technologies and adopting new policies are the keys to building a robust, fully decarbonized energy system that can power the future economy."
+  },
+  {
+    "user_id": "U003",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "casual"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 268,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "public",
+        "mental",
+        "influences"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "This document introduces the powerful and complex role of social media platforms, which have completely changed how we connect and consume information. The core idea is that while social media has perks, its influence on mental health is a big worry. The text immediately highlights that constant exposure to idealized content and engagement-maximizing algorithms can lead to anxiety, polarization of public opinion, and the rapid spread of misinformation. The overall point is that we must urgently understand and regulate these platforms to lessen the negative consequences of our constant digital immersion."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 108,
+      "scroll_depth_percent": 99,
+      "highlighted_phrases": [
+        "continues",
+        "to"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "The comprehensive challenge posed by climate change to global food security mandates a structured, multi-faceted response. This strategic approach must prioritize both global-scale mitigation and localized adaptation efforts to protect vulnerable agricultural systems. A key methodological focus involves the development of climate-resilient crop varieties, which are essential for maintaining stable productivity amidst increasing temperature variability and altered precipitation patterns. Concurrently, enhancing agricultural efficiency necessitates the improvement of water-management techniques to optimize scarce resources effectively. Furthermore, the implementation of sustainable agricultural practices, such as conservation tillage, is crucial for preserving soil health and maximizing long-term yields. Ultimately, global efforts must be systematically directed towards two simultaneous objectives: mitigation—the stringent reduction of greenhouse gas emissions—and adaptation—the proactive adjustment of systems to ensure a stable and nutritious food supply for the expanding world population. These integrated methodologies are requisite for overcoming the profound threats identified in the agricultural sector."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 203,
+      "scroll_depth_percent": 100,
+      "highlighted_phrases": [
+        "Artificial",
+        "treatment.",
+        "healthcare"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Artificial Intelligence (AI) is fundamentally transforming healthcare by deploying sophisticated tools that significantly enhance the precision and swiftness of medical services. The core methods employed center on advanced AI algorithms, particularly those leveraging deep learning, which are utilized to analyze extensive datasets, including MRI scans, X-rays, and pathology slides. In diagnostics, the methodology involves AI systems identifying subtle disease patterns earlier and more accurately than conventional human analysis, thereby accelerating the critical time-to-treatment. Furthermore, AI is instrumental in drug discovery; it applies simulation methods to model molecular interactions, a technique that substantially shortens the pharmaceutical development cycle. For patient care, AI enables personalized medicine by employing data-driven analysis of a patient's comprehensive profile—genetic data, medical history, and lifestyle—to formulate the most efficacious therapeutic recommendation. These methodologies collectively optimize hospital workflows and reduce errors, establishing a new paradigm of efficiency and precision in medical practice."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 87,
+      "scroll_depth_percent": 100,
+      "highlighted_phrases": [
+        "exponential",
+        "computing",
+        "speed-ups"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing introduces a significant methodological shift by moving from classical bits to qubits, which utilize the principles of superposition and entanglement. This fundamental difference enables the technology to process an exponential magnitude of calculations concurrently, facilitating solutions to currently intractable problems. The primary methods of application are vast. In materials science, quantum simulations are employed to model molecular behavior, a process expected to yield revolutionary catalysts and superconductors. In the realm of security, the threat posed by quantum algorithms, specifically Shor's algorithm, mandates the methodological development of post-quantum cryptography to secure data against future decryption capabilities. Furthermore, quantum systems enhance computational methodologies across various optimization fields, including drug discovery, logistics, and financial modeling, by solving complex optimization challenges with unprecedented speed. Despite existing developmental constraints related to maintaining qubit coherence, these computational methods are anticipated to fundamentally redefine technology and industrial practices upon achieving fault-tolerant realization."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 259,
+      "scroll_depth_percent": 71,
+      "highlighted_phrases": [
+        "net-zero",
+        "crucial",
+        "sources"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Achieving the global objective of net-zero emissions necessitates a profound and rapid methodological transition towards renewable energy resources. This transition relies on two core methods: scaling up mature technologies, such as solar photovoltaic (PV) and wind power, and concurrently integrating emerging zero-carbon sources like geothermal and green hydrogen. To address the inherent challenge of intermittent generation from solar and wind, significant methodological investment is directed toward energy storage solutions, specifically large-scale battery storage and pumped hydro, which are critical for ensuring grid stability and reliability. Furthermore, the systematic decarbonization of difficult-to-abate sectors (industry and heavy transport) requires the development and implementation of novel technologies like Power-to-X fuels. These technical methods are critically supported by essential policy instruments, including carbon pricing and incentives for clean technology adoption, which serve as accelerants for this comprehensive energy transition."
+  },
+  {
+    "user_id": "U004",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "methods",
+      "tone_preference": "formal"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 106,
+      "scroll_depth_percent": 72,
+      "highlighted_phrases": [
+        "in",
+        "opinion"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "The ubiquitous influence of social media platforms necessitates the implementation of crucial mitigation methods to address adverse psychological and societal outcomes. The document establishes that, while providing benefits, these platforms contribute to mental health issues, driven by social comparison and engagement-maximizing algorithms that foster echo chambers and misinformation spread. Addressing these systemic challenges requires a multi-pronged methodological focus: First, there must be a concerted effort toward promoting digital literacy to enhance users' critical engagement with online content. Second, proactive measures are required to foster healthier online habits, specifically targeting and counteracting the effects of addictive design elements like infinite scrolling. Finally, to ensure platform accountability and public trust, there is a fundamental demand for greater algorithmic transparency. These integrated methods are essential to effectively mitigate the documented negative consequences arising from constant digital immersion."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 297,
+      "scroll_depth_percent": 94,
+      "highlighted_phrases": [
+        "change",
+        "to",
+        "agriculture"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "This document analytically details the severe and escalating threat posed by climate change to global agriculture and food security. Key Findings: Direct Productivity Loss: Rising temperatures, erratic precipitation, and amplified extreme weather events (droughts, floods) are conclusively linked to a direct reduction in crop yields and livestock productivity. Vulnerability Concentration: Smallholder farmers in developing nations are identified as disproportionately vulnerable, citing a critical lack of adaptive resources to manage rapid environmental shifts. Indirect Environmental Stressors: The changing climate facilitates the increased proliferation of pests and diseases, which is found to further jeopardize agricultural harvests, as exemplified by the severe food crises resulting from prolonged droughts in regions like the Horn of Africa. Nutritional Degradation: An unexpected but critical finding is that the increasing atmospheric concentration of CO2 has the potential to diminish the nutritional quality of staple crops, presenting a risk of widespread micronutrient deficiencies. Mandate for Dual Strategy: The analysis concludes that the challenge necessitates a comprehensive, multi-faceted strategy focused equally on global mitigation (reducing emissions) and agricultural adaptation (e.g., climate-resilient crops, improved water management) to secure a stable food supply."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 223,
+      "scroll_depth_percent": 88,
+      "highlighted_phrases": [
+        "transforming",
+        "diagnostics",
+        "intelligence",
+        "is"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "This document provides a clear analytical overview of how Artificial Intelligence (AI) is enhancing the capabilities and performance of the healthcare sector. Key Findings: Enhanced Diagnostic Precision and Speed: AI algorithms, particularly those based on deep learning, are found to excel at analyzing medical imaging data (MRI, X-rays). This capability results in the earlier and more accurate identification of subtle disease patterns, such as cancer and diabetic retinopathy, significantly accelerating time-to-treatment. Accelerated Drug Development: AI is crucial in drug discovery through the simulation of molecular interactions. This methodology substantially shortens the development cycle for new pharmaceuticals, addressing a major bottleneck in medical innovation. Facilitation of Personalized Medicine: AI enables advanced personalized medicine by integrating and analyzing a patient's complex data set (genetic information, medical history, lifestyle) to recommend the most optimal and effective therapeutic plan. Operational and Safety Improvements: The technology holds undeniable potential for improving patient outcomes, optimizing hospital workflows, and critically, reducing medical errors, thereby enhancing the overall efficiency and precision of healthcare delivery. Acknowledged Challenges: The integration of AI necessitates careful consideration of challenges related to data privacy and regulatory oversight, which must be managed to realize the full benefits of the technology."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 136,
+      "scroll_depth_percent": 76,
+      "highlighted_phrases": [
+        "speed-ups",
+        "promises"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document analytically examines the transformative potential of quantum computing based on its fundamental computational advantages. Key Findings: Exponential Processing Capability: The utilization of qubits in superposition and entanglement provides the ability to process an exponential number of calculations simultaneously, a capability that can unlock solutions to problems currently considered intractable for classical supercomputers. Revolutionary Materials Science Impact: A critical application is found in materials science, where quantum simulations are predicted to result in the development of groundbreaking materials, such as revolutionary new catalysts or high-temperature superconductors. Cryptographic Vulnerability and Necessity: Quantum algorithms, such as Shor's algorithm, pose a fundamental security threat to current public-key encryption standards. This finding necessitates the urgent and proactive development of post-quantum cryptography. Optimization Enhancement: The technology is expected to significantly enhance computational efficiency in complex optimization problems, including those found in drug discovery, logistics, and financial modeling. Long-Term Systemic Reshaping: Despite existing early-stage challenges related to qubit coherence and stability, the analysis projects that the realization of fault-tolerant quantum computers will dramatically reshape technology, science, and industry."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 256,
+      "scroll_depth_percent": 82,
+      "highlighted_phrases": [
+        "energy",
+        "are",
+        "achieving",
+        "Renewable"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "This document provides an analytical assessment of the necessary energy transition required to achieve the global net-zero emissions target. Key Findings: Fundamental Dependence on Transition: Achieving net-zero emissions is fundamentally dependent upon a massive and rapid shift toward renewable energy sources, replacing the fossil fuels currently identified as the largest contributor to greenhouse gas emissions. Mitigation of Climate Crisis: Renewable energy sources, particularly scaled-up solar PV and wind power, directly mitigate the climate crisis by providing a zero-carbon alternative to combustion-based energy production. Criticality of Storage Solutions: The inherent intermittent nature of primary renewables (solar and wind) mandates significant investment in energy storage solutions (e.g., large-scale battery storage, pumped hydro) to maintain essential grid stability and reliability. Technological Necessity for Hard-to-Abate Sectors: Decarbonization requires the specific development of technologies, such as Power-to-X fuels, to address emissions challenges in sectors like heavy transport and industry. Policy as a Primary Accelerator: Policy mechanisms, including carbon pricing and financial incentives, are identified as essential drivers required to accelerate the necessary technological adoption and ensure the successful deployment of a robust, fully decarbonized energy system."
+  },
+  {
+    "user_id": "U005",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "key_findings",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 179,
+      "scroll_depth_percent": 75,
+      "highlighted_phrases": [
+        "in",
+        "health",
+        "opinion",
+        "ways."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "This document analytically assesses the dual impact of social media platforms on individual and societal well-being. Key Findings: Negative Mental Health Correlation: Constant exposure to idealized, curated content is found to fuel social comparison, leading to quantifiable increases in feelings of inadequacy, anxiety, and depression, particularly among the adolescent demographic. Algorithmic Distortion of Discourse: Platform algorithms designed to maximize engagement prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, directly contributing to the polarization of public opinion and the rapid dissemination of misinformation. Behavioral and Physical Consequences: The implementation of subtle, addictive design elements, such as infinite scrolling and persistent notification alerts, is shown to contribute to platform overuse and adverse physical effects, notably poor sleep hygiene. Mandate for Mitigation Strategies: The analysis concludes that mitigating these negative psychological and societal consequences requires focused efforts on three strategic areas: promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency for public accountability."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 132,
+      "scroll_depth_percent": 81,
+      "highlighted_phrases": [
+        "continues",
+        "impact",
+        "security."
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "This document introduces a critical analysis of how climate change poses an escalating threat to global agriculture and food security. The analysis establishes that extreme weather and altered conditions directly reduce food productivity and disproportionately affect vulnerable smallholder farmers. The text sets up a detailed examination of the consequences, including food crises and diminished crop nutritional quality, thereby establishing the urgent need for a dual strategic focus on mitigation (emission reduction) and adaptation (e.g., climate-resilient crops)."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 92,
+      "scroll_depth_percent": 95,
+      "highlighted_phrases": [
+        "Artificial",
+        "healthcare",
+        "and",
+        "transforming"
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document introduces an analytical assessment of how Artificial Intelligence (AI) is fundamentally transforming the healthcare sector. The core premise is that AI tools significantly enhance the speed and accuracy of medical services. The analysis sets the stage for examining AI's key roles in accelerating diagnostics, shortening the timeline for drug discovery, and enabling truly personalized medicine. The introduction establishes AI as the catalyst for an inevitable shift toward a new era of precision and efficiency in healthcare."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 201,
+      "scroll_depth_percent": 94,
+      "highlighted_phrases": [
+        "promises",
+        "Quantum"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "This document introduces quantum computing as a major analytical paradigm shift, defined by its use of qubits to achieve an exponential increase in processing speed. The analysis sets out to examine its profound implications: the potential to solve currently intractable problems and its dual role as a powerful tool for scientific discovery (e.g., materials science and drug discovery) and as a fundamental threat to existing public-key cryptography. The document concludes that this technology is poised to dramatically reshape global science and industry."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 63,
+      "scroll_depth_percent": 65,
+      "highlighted_phrases": [
+        "net-zero",
+        "crucial",
+        "to",
+        "emissions."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "This document introduces the analytical argument that a swift and extensive transition to renewable energy sources is fundamentally mandatory for achieving the global goal of net-zero emissions. The analysis sets the stage by identifying fossil fuels as the primary climate threat. It then posits that scaling up technologies like solar PV and wind power, while managing the challenge of intermittency through energy storage investment, is the central strategic imperative. The objective is to secure a robust, fully decarbonized, and sustainable global energy system."
+  },
+  {
+    "user_id": "U006",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "introduction",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 170,
+      "scroll_depth_percent": 63,
+      "highlighted_phrases": [
+        "in",
+        "health",
+        "Social",
+        "media"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document introduces a critical analysis of social media platforms, noting their fundamental role in altering global connectivity and information consumption. The core analytical premise is that, despite offering certain benefits, their design mechanisms and content structures pose serious threats. Specifically, the document sets up an examination of how algorithms fuel mental health degradation (via social comparison) and contribute to the polarization of public opinion and the spread of misinformation. The overall objective is to establish the necessity for regulation and mitigation strategies focused on digital literacy and algorithmic transparency."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 211,
+      "scroll_depth_percent": 99,
+      "highlighted_phrases": [
+        "to",
+        "continues",
+        "food"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "The document analytically outlines the essential methods required to counteract the profound threat climate change poses to food security. To address reduced productivity and increased vulnerability, a multi-faceted approach is mandated, focusing on both global-scale and local-level actions. Key technical methods include developing climate-resilient crop varieties and improving water-management techniques. Furthermore, the adoption of sustainable agricultural practices, such as conservation tillage, is necessary. Overall, global efforts must strategically target dual objectives: mitigation (reducing greenhouse gas emissions) and adaptation to ensure a stable food supply."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 291,
+      "scroll_depth_percent": 100,
+      "highlighted_phrases": [
+        "Artificial",
+        "is"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "The document analyzes key AI methods transforming healthcare, primarily through deep learning algorithms that analyze vast medical data (MRI, X-rays). Specific methods include employing AI for faster and more accurate diagnostics, simulating molecular interactions for accelerated drug discovery, and using data analysis for personalized medicine recommendations. These methods aim to improve patient outcomes and optimize clinical efficiency."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 296,
+      "scroll_depth_percent": 95,
+      "highlighted_phrases": [
+        "exponential",
+        "complex",
+        "problems."
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "The analysis confirms that quantum computing introduces a methodological shift by utilizing qubits in superposition and entanglement to achieve exponentially faster computation. Key applied methods include quantum simulations in materials science (e.g., superconductors) and enhancing algorithmic approaches for drug discovery and optimization problems (logistics, finance). Crucially, the technology's capability necessitates the urgent development of post-quantum cryptography as a method to secure future encryption standards against algorithms like Shor's."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 300,
+      "scroll_depth_percent": 63,
+      "highlighted_phrases": [
+        "crucial",
+        "to"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "The document analyzes the critical methods required for the net-zero emissions transition: scaling up mature renewables (solar PV, wind) and integrating emerging sources (green hydrogen). Key technical methods include mandatory investment in large-scale energy storage (batteries, pumped hydro) to stabilize the grid and the development of specialized fuels (Power-to-X) for hard-to-abate sectors. Strategic policy methods like carbon pricing are also essential to accelerate technology adoption."
+  },
+  {
+    "user_id": "U007",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "methods",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 162,
+      "scroll_depth_percent": 65,
+      "highlighted_phrases": [
+        "in",
+        "opinion",
+        "health",
+        "subtle"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "The document's analysis of social media's adverse effects—such as heightened mental health issues, public polarization, and misinformation spread—mandates focused mitigation methodologies. These crucial methods include: promoting digital literacy to improve critical content consumption; fostering healthier online habits to counteract addictive design; and demanding greater algorithmic transparency to address the structural forces driving negative psychological and societal consequences."
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 279,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "to",
+        "continues",
+        "and"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Climate change presents a profound, escalating threat to food security, but identifying these results is an exciting catalyst for action! Extreme weather is already slashing crop yields and making food less nutritious, which creates critical vulnerability for small farmers. The great result is that these threats are clearly defined, powering an urgent, dual mission: adapting immediately with climate-resilient crops and aggressively cutting global emissions to secure a stable and nutritious food supply for everyone!"
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 116,
+      "scroll_depth_percent": 80,
+      "highlighted_phrases": [
+        "Artificial",
+        "diagnostics",
+        "treatment."
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "AI is creating phenomenal results in healthcare! The key finding is that it drastically boosts the speed and accuracy of medical services. We're seeing exciting outcomes like AI catching diseases like cancer earlier and more precisely than ever before, accelerating drug discovery, and enabling truly personalized medicine. The overall result is an undeniable potential to improve patient outcomes and usher in an era of super-efficiency and precision! "
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 83,
+      "scroll_depth_percent": 68,
+      "highlighted_phrases": [
+        "Quantum",
+        "speed-ups"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "Quantum computing is unlocking exponential power, promising breakthroughs that will solve problems currently impossible for supercomputers! The thrilling results include the development of revolutionary new materials (like superconductors) and a massive boost to drug discovery and complex optimization for business. Even the challenge it poses to current security is driving exciting innovation in next-gen cryptography. Ultimately, this technology is set to dramatically reshape science and industry!"
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 188,
+      "scroll_depth_percent": 68,
+      "highlighted_phrases": [
+        "Renewable",
+        "emissions."
+      ],
+      "edited_summary_length": 5,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "The massive shift to renewables is yielding incredible results and opportunities for a sustainable future! The core finding is that this transition directly mitigates the climate crisis by replacing fossil fuels with zero-carbon alternatives like solar and wind. To ensure a stable grid, the necessity of large-scale energy storage (like batteries) is driving huge innovation! Furthermore, we're seeing the exciting creation of special new fuels like Power-to-X to clean up difficult industries. The final, essential result is that smart policies are accelerating this transition, guaranteeing a fully decarbonized, robust global economy!"
+  },
+  {
+    "user_id": "U008",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "results",
+      "tone_preference": "enthusiastic"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 61,
+      "scroll_depth_percent": 92,
+      "highlighted_phrases": [
+        "health",
+        "subtle",
+        "mental",
+        "opinion"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "Social media's massive influence is creating an exciting call to action to safeguard our well-being! The key results show that while we love the connectivity, the platforms' design is causing issues: idealized content boosts social comparison and reduces mental health (especially for teens). Plus, algorithms fuel polarization and the rapid spread of misinformation—a huge societal challenge! But the great news is the path forward is clear: we can tackle these problems head-on by championing digital literacy and demanding algorithmic transparency for a healthier digital future!"
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 116,
+      "scroll_depth_percent": 71,
+      "highlighted_phrases": [
+        "to",
+        "agriculture"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document analytically details the severe and escalating impacts of climate change on global agriculture and food security. Results and Consequences: Direct Reduction in Productivity: The primary result of altered weather patterns and extreme events (droughts, floods, heatwaves) is a direct reduction in crop yields and livestock productivity worldwide. Disproportionate Vulnerability: A critical consequence is the severe vulnerability of smallholder farmers in developing nations, whose lack of resources prevents effective adaptation to rapid environmental shifts. Increased Biological Threats: The changing climate results in the spread of pests and diseases, which further jeopardizes harvests and has led to severe outcomes such as the catastrophic food crises observed during prolonged droughts in regions like the Horn of Africa. Nutritional Decline: A subtle but profound consequence is that rising CO2 concentration is found to negatively affect the nutritional quality of staple crops, presenting a risk of widespread micronutrient deficiencies in the global population. Mandate for Strategic Action: The analysis concludes that mitigating these results requires a dual strategic focus on global mitigation (reducing emissions) and comprehensive adaptation (e.g., climate-resilient crops, conservation tillage) to stabilize the food supply."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 224,
+      "scroll_depth_percent": 87,
+      "highlighted_phrases": [
+        "Artificial",
+        "is"
+      ],
+      "edited_summary_length": 3,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "This document analytically examines the transformative results and consequences of integrating Artificial Intelligence (AI) into the healthcare sector. Results and Consequences: Accelerated and Enhanced Diagnostics: AI algorithms, powered by deep learning, successfully analyze vast quantities of medical data, leading to the early and more accurate identification of subtle disease patterns (e.g., cancer, diabetic retinopathy). The direct result is a critical acceleration of time-to-treatment. Shortened Pharmaceutical Development Cycles: In drug discovery, AI simulations of molecular interactions yield the result of significantly shortening the development time for new pharmaceuticals, overcoming a major bottleneck in medical science. Realization of Personalized Medicine: By analytically integrating comprehensive patient data (genetics, history, lifestyle), AI's consequence is the ability to recommend the most effective, personalized therapeutic approach, shifting treatment away from generalized protocols. Operational and Quality Improvement: The overall integration of AI holds the potential to result in improved patient outcomes, optimized hospital workflows, and a reduction in medical errors, thereby increasing the systemic precision and efficiency of healthcare delivery. The document concludes that despite challenges related to data privacy, the positive results of AI in healthcare are substantial and undeniable."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 100,
+      "scroll_depth_percent": 84,
+      "highlighted_phrases": [
+        "speed-ups",
+        "promises"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document analytically assesses the disruptive potential and projected outcomes of quantum computing, driven by its exponential processing capabilities. Results and Consequences: Solution of Intractable Problems: The fundamental result of using qubits in superposition is the ability to process exponential calculations, which directly translates into the potential to unlock solutions for problems currently deemed intractable for classical supercomputers. Materials Innovation Breakthroughs: A major consequence in materials science is the expected development of revolutionary new catalysts or high-temperature superconductors through advanced quantum simulations. Cryptographic Security Crisis and Response: Quantum algorithms, specifically Shor's algorithm, generate the consequence of a significant threat to current public-key encryption standards, necessitating the urgent development of post-quantum cryptography as a vital security response. Enhanced Optimization Capabilities: A practical outcome across industries is the significant enhancement of efficiency in complex optimization problems, particularly observed in drug discovery, logistics, and financial modeling. Long-Term Industrial Reshaping: Despite existing developmental challenges, the eventual realization of fault-tolerant quantum systems is projected to result in a dramatic reshaping of technology, science, and industry."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 150,
+      "scroll_depth_percent": 61,
+      "highlighted_phrases": [
+        "sources",
+        "are",
+        "energy",
+        "achieving"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document analytically examines the critical outcomes and necessities associated with the global transition to renewable energy sources. Results and Consequences: Direct Climate Mitigation: The transition's primary result is the direct mitigation of the climate crisis, as renewable sources provide a zero-carbon alternative to fossil fuels, which are identified as the single largest contributor to human-caused greenhouse gas emissions. Increased Energy Storage Demand: A necessary consequence of integrating intermittent sources (solar and wind) is the mandate for significant investment in energy storage solutions (e.g., large-scale battery storage, pumped hydro) to maintain essential grid stability and reliability. Technological Development Imperative: Decarbonizing hard-to-abate sectors results in the necessity to develop advanced technologies like Power-to-X fuels to manage emissions from heavy transport and industry where electrification is difficult. Accelerated Transition via Policy: Policy mechanisms (like carbon pricing and incentives) are identified as key drivers whose result is the acceleration of the technological adoption rate, ultimately ensuring the sustainable capability of a fully decarbonized energy system to power the global economy."
+  },
+  {
+    "user_id": "U009",
+    "user_profile": {
+      "summary_length_preference": "medium",
+      "focus_area": "results",
+      "tone_preference": "analytical"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 210,
+      "scroll_depth_percent": 98,
+      "highlighted_phrases": [
+        "opinion",
+        "mental"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "disliked"
+    },
+    "user_generated_summary": "This document provides an analytical examination of the adverse outcomes generated by the widespread adoption of social media platforms. Results and Consequences: Psychological Detriment: A primary finding is the correlation between exposure to curated, idealized content and negative mental health results. This exposure fuels social comparison, leading to increased experiences of inadequacy, anxiety, and depression, a finding particularly pronounced within the adolescent demographic. Societal Polarization and Disinformation: Algorithms designed to maximize engagement prioritize sensational content, resulting in the formation of echo chambers and the reinforcement of confirmation bias. The consequence is a measurable contribution to the polarization of public opinion and the accelerated dissemination of misinformation ('fake news'). Behavioral and Physical Health Decline: The platforms’ subtle, addictive design elements (e.g., infinite scrolling, notifications) contribute to significant overuse, with a documented outcome being the erosion of fundamental physical health standards, specifically poor sleep hygiene. Regulatory Imperative: The cumulative negative psychological and societal consequences necessitate intervention. The analysis concludes that successful mitigation requires focusing efforts on achieving greater algorithmic transparency, promoting digital literacy, and fostering healthier user habits."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Climate change poses a profound and escalating threat to global agriculture and food security. Rising global temperatures, altered precipitation patterns, and increased frequency of extreme weather events—such as droughts, floods, and heatwaves—directly reduce crop yields and livestock productivity. Smallholder farmers in developing nations are often the most vulnerable, lacking the resources to adapt to rapid environmental shifts. The changing climate also contributes to the spread of pests and diseases, further jeopardizing harvests. For instance, prolonged droughts in regions like the Horn of Africa have led to catastrophic crop failures and severe food crises. Furthermore, the rising concentration of CO2 in the atmosphere can affect the nutritional quality of staple crops, potentially leading to widespread micronutrient deficiencies. Addressing this challenge requires a multi-faceted approach, including developing climate-resilient crop varieties, improving water-management techniques, and implementing sustainable agricultural practices like conservation tillage. Global efforts must focus on both mitigation—reducing greenhouse gas emissions—and adaptation to ensure a stable and nutritious food supply for an ever-growing world population.",
+    "user_behaviour": {
+      "read_time_sec": 192,
+      "scroll_depth_percent": 67,
+      "highlighted_phrases": [
+        "security.",
+        "agriculture",
+        "change"
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Climate change is a massive problem for global food security. The core findings are that extreme weather is directly cutting crop yields and making small farmers the most vulnerable. It also causes diseases to spread and, surprisingly, makes our food less nutritious due to rising CO2. We urgently need a dual approach: adapting our farms (like using new, tough crops) while also tackling global emissions."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Artificial Intelligence (AI) is rapidly revolutionizing the healthcare landscape, offering powerful tools that enhance both the speed and accuracy of medical services. AI algorithms, particularly those based on deep learning, excel at analyzing vast quantities of medical data, including MRI scans, X-rays, and pathology slides. In diagnostics, AI systems can identify subtle patterns indicative of diseases like cancer or diabetic retinopathy often earlier and more accurately than the human eye, accelerating time-to-treatment. Beyond imaging, AI is crucial in drug discovery, simulating molecular interactions to significantly shorten the development cycle for new pharmaceuticals. In treatment, AI enables personalized medicine by analyzing a patient’s genetic data, medical history, and lifestyle to recommend the most effective therapeutic approach. While the integration of AI presents challenges concerning data privacy and regulatory oversight, its potential to improve patient outcomes, optimize hospital workflows, and reduce medical errors is undeniable, heralding a new era of precision and efficiency in healthcare.",
+    "user_behaviour": {
+      "read_time_sec": 268,
+      "scroll_depth_percent": 78,
+      "highlighted_phrases": [
+        "Artificial",
+        "and"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "AI is totally revolutionizing healthcare! The main finding is that these smart algorithms are significantly boosting the speed and accuracy of medical services. Key results include catching diseases like cancer earlier with better diagnostics, speeding up drug discovery by simulating molecules, and enabling truly personalized medicine based on a patient's unique data. The bottom line is that AI has undeniable potential to improve patient outcomes and make hospitals run way more efficiently."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Quantum computing represents a paradigm shift from classical computation, moving beyond bits that are 0 or 1 to use qubits that can exist in a superposition of both states simultaneously. This fundamental difference, along with the phenomenon of entanglement, allows quantum computers to process an exponential number of calculations at once. The technology promises to unlock solutions for problems currently intractable for the world's most powerful supercomputers. Key applications include materials science, where quantum simulations could lead to the development of revolutionary new catalysts or high-temperature superconductors. In cryptography, quantum computers pose a threat to current public-key encryption standards through algorithms like Shor's algorithm, necessitating the urgent development of post-quantum cryptography. Furthermore, they will significantly enhance drug discovery and optimization problems, such as logistics and financial modeling. Despite being in an early stage of development, with challenges around maintaining qubit coherence and stability, the eventual realization of fault-tolerant quantum computers is expected to dramatically reshape technology, science, and industry.",
+    "user_behaviour": {
+      "read_time_sec": 80,
+      "scroll_depth_percent": 96,
+      "highlighted_phrases": [
+        "problems.",
+        "computing",
+        "complex",
+        "speed-ups"
+      ],
+      "edited_summary_length": 2,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "Quantum computing is a huge leap forward—it uses special 'qubits' to calculate exponentially faster than any current supercomputer. The main finding is that this power will finally let us solve impossible problems. Key results include creating revolutionary new materials (like superconductors), boosting drug discovery, and improving complex logistics. Oh, and a big one: it's forcing us to develop new, stronger internet security (post-quantum cryptography)! Ultimately, this tech is going to dramatically reshape all of science and industry."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Renewable Energy Sources: Achieving the global goal of net-zero emissions by mid-century is fundamentally dependent on a rapid and massive transition to renewable energy sources. This transition involves scaling up mature technologies like solar photovoltaic (PV) and wind power, while also integrating emerging sources like geothermal and green hydrogen. Currently, the combustion of fossil fuels for electricity, transport, and heat is the single largest contributor to human-caused greenhouse gas emissions. Renewable energy provides a zero-carbon alternative, directly mitigating the climate crisis. However, the intermittent nature of solar and wind requires significant investment in energy storage solutions, such as large-scale battery storage and pumped hydro, to ensure grid stability and reliability. Furthermore, decarbonizing hard-to-abate sectors like industry and heavy transport necessitates the development of technologies like Power-to-X fuels. Policies, including carbon pricing and incentives for clean technology adoption, are essential drivers for accelerating this transition, ensuring that a robust and fully decarbonized energy system can power the global economy sustainably.",
+    "user_behaviour": {
+      "read_time_sec": 165,
+      "scroll_depth_percent": 64,
+      "highlighted_phrases": [
+        "energy",
+        "Renewable",
+        "achieving"
+      ],
+      "edited_summary_length": 1,
+      "user_feedback": "liked"
+    },
+    "user_generated_summary": "This document shows that hitting net-zero emissions depends totally on a huge switch to renewables like solar and wind. The great news is they provide a zero-carbon alternative, directly stopping the climate crisis! The key findings are: Because solar and wind are intermittent, we absolutely have to invest big in energy storage (like huge batteries) to keep the power grid stable. Second is: We need special new tech, like Power-to-X fuels, to clean up tough sectors like heavy transport and factories. Finally, Policies like carbon pricing are crucial to making this massive transition happen quickly and successfully."
+  },
+  {
+    "user_id": "U010",
+    "user_profile": {
+      "summary_length_preference": "short",
+      "focus_area": "key_findings",
+      "tone_preference": "casual"
+    },
+    "document_text": "Social media platforms have become ubiquitous, fundamentally altering how people connect, consume information, and perceive the world. While they offer benefits like connectivity and accessible information, their influence on mental health is a growing concern. Constant exposure to curated, idealized portrayals of life can fuel social comparison, leading to increased feelings of inadequacy, anxiety, and depression, particularly among adolescents. The algorithms driving these platforms, designed to maximize engagement, often prioritize sensational or emotionally charged content. This structure creates echo chambers and reinforces confirmation bias, contributing to the polarization of public opinion and the rapid spread of misinformation (or 'fake news'). The subtle, often addictive design elements, such as infinite scrolling and notification alerts, contribute to overuse and poor sleep hygiene. Understanding and regulating these platforms is crucial. Efforts must focus on promoting digital literacy, fostering healthier online habits, and demanding greater algorithmic transparency to mitigate the negative psychological and societal consequences of constant digital immersion.",
+    "user_behaviour": {
+      "read_time_sec": 249,
+      "scroll_depth_percent": 73,
+      "highlighted_phrases": [
+        "Social",
+        "media",
+        "ways."
+      ],
+      "edited_summary_length": 4,
+      "user_feedback": "neutral"
+    },
+    "user_generated_summary": "This document finds that social media is a double-edged sword. The main results are bad for our well-being: it's hurting mental health (especially for teens) by fueling comparison, and the algorithms are causing polarized opinions and spreading fake news. Also, those addictive designs mean we're using them too much and losing sleep. The takeaway? We need to learn how to use them better and demand more transparency from the platforms."
+  }
+]
