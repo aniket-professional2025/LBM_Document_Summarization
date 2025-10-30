@@ -1,0 +1,24 @@
+{
+    "user_1": {
+        "focus": "results",      
+        "tone": "analytical",    
+        "length": "medium",     
+        "history": [
+            "Coal industry layoffs in Appalachia",
+            "Bankruptcy filings of major mining companies",
+            "Trump administration energy policies",
+            "Impact of Clean Air Act on coal sector",
+            "US electricity mix and coal decline"
+    ]
+},
+    "user_2": {
+        "focus": "human impact",
+        "tone": "empathetic",
+        "length": "short",
+        "history": [
+            "Worker retraining programs",
+            "Environmental policy and communities",
+            "Economic transition in mining towns"
+        ]
+    }
+}
